@@ -1,4 +1,4 @@
-# Predicting_Hotel_Financial_Health
+# Predicting Hotel Financial Health
 
 
 ## Table of contents
